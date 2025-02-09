@@ -16,6 +16,7 @@ A simple and visually appealing timer built using React. This timer allows users
 ## **Preview**
 
 Timer Preview
+<img width="1581" alt="Image" src="https://github.com/user-attachments/assets/67a56ccf-ce73-40a8-ad7a-f2f364f3a87e" />
 
 ---
 
