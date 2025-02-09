@@ -1,0 +1,23 @@
+html{
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+body{
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: #fff;
+  padding: 50px;
+  width: 300px;
+  margin: 0 auto;
+
+  text-align: center;
+  font-size: 2em;
+}
+
+h1{
+  font-size:5em;
+}
+
+button{
+  margin:20px
+}
+
